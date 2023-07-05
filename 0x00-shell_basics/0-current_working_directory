@@ -1,10 +1,2 @@
 #!/bin/bash
-
-#We are looking for the current working directory
-
-cwd=$(pwd)
-
-#Print out the current working directory of this file
-
-echo "The absolute path of the current working directory is :$cwd"
-
+pwd
