@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#Printing the current working directory
+
+cwd=$(pwd)
+
+#The out put
+
+echo "The absolute path name of the current working director is: $cwd "
+
