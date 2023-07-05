@@ -1,2 +1,2 @@
 #!/bin/bash
-if [[ ! -e "$dest_file" ]]  Then cp "$file" "$parent_dir" echo "Copied: $file" elif [[ "$file" -nt "$dest_file" ]] Then  cp "$file" "$parent_dir"
+cp -un *.html ../
