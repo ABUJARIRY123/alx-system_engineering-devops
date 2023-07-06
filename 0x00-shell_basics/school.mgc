@@ -1,2 +1,2 @@
-#!/bin/bash
-echo '0 string SCHOOL School data file' | file -C -m /dev/stdin school.mgc
+0 string HOLBERTON Holberton data
+|:mime Holberton
