@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1t --time=modified --reverse |  head -n 10 
+ls -t1 |  head 
